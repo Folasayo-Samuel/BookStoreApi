@@ -36,3 +36,4 @@
 /home/saint/Desktop/BookStoreApi/obj/Debug/net6.0/BookStoreApi.pdb
 /home/saint/Desktop/BookStoreApi/obj/Debug/net6.0/BookStoreApi.genruntimeconfig.cache
 /home/saint/Desktop/BookStoreApi/obj/Debug/net6.0/ref/BookStoreApi.dll
+/home/saint/Desktop/BookStoreApi/bin/Debug/net6.0/BookStoreApi.staticwebassets.runtime.json
